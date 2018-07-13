@@ -1,5 +1,1 @@
-utxo/utxo_2018-07-13.json filter=lfs diff=lfs merge=lfs -text
-utxo/utxo_2018-07-15.json filter=lfs diff=lfs merge=lfs -text
-utxo/utxo_2018-07-27.json filter=lfs diff=lfs merge=lfs -text
-utxo/utxo_2018-07-31.json filter=lfs diff=lfs merge=lfs -text
 utxo/utxo_2018-08-01.json filter=lfs diff=lfs merge=lfs -text
